@@ -1,0 +1,22 @@
+h1, h3 {
+    font-family: "Brush Script MT", Georgia, serif;
+}
+
+h1 {
+    color: #001eff;
+    text-align: center;
+}
+
+h3 {
+    color: #36bbce;
+    font-size: 25px;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+.back {
+    background-color: pink;
+}
